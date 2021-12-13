@@ -1,0 +1,22 @@
+body{
+    background-color: #464647;
+    padding: 10px;
+}
+
+.navegacion{
+    background-color:rgb(44, 44, 44);
+ 
+}
+
+.navegacion a {
+    color: white;
+}
+
+.sombra{
+    box-shadow: 0px 0px 10px #000000 ;
+}
+
+.atracciones{
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
